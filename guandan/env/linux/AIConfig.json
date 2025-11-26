@@ -1,0 +1,26 @@
+{
+  "gameSettings": {
+      "totalRounds": 250000,
+      "timeoutSeconds": 0,
+      "logLevel": "Error",
+      "logPath": "./logs",
+      "wsEndpoint": "http://localhost:23456/",
+      "aiNum": 4,
+      "cardFormat": "chinese",
+      "delayBetweenPlays": 0,
+      "allowRetry": true,
+      "rankOption": 1,
+      "matchCount": 2,
+      "enableHeartbeat": true,
+      "heartbeatInterval": 100,
+      "heartbeatTimeout": 3,
+      "requireMsgIndexResponse": false,
+      "waitForReconnect": true
+  },
+  "userKeyMap": {
+      "a1": 0,
+      "b1": 1,
+      "a2": 2,
+      "b2": 3
+  }
+}
